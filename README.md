@@ -3,7 +3,7 @@
 <h3 align="center">Machine Learning | Deep Learning | Data Analytics | Geospatial  Analytics </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/a28shubh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href = "mailto: a28shubh@gmail.com.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="mailto:a28shubh@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 <a href = "https://stackoverflow.com/users/11189224/shubham"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30" width="40" /></a>
 
 </p>
@@ -23,7 +23,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Myself***
 
 <br><br>
-✔ 3 years of experience in Geospatial Analytics and Automation <br>
+✔ 8 years of experience in Geospatial Analytics and Automation <br>
 ✔ I’m looking to collaborate with Open-Source contribution<br>
 ✔ I’m currently learning Django and Deep Learning<br><br>
 <hr>
